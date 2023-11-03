@@ -8,7 +8,7 @@ This Python program is a graphical calculator built using Tkinter, enabling user
 
 - Ajay Kumar (GitHub: [AJ_Styles](https://github.com/Aj3322))
 - Alok Kumar (GitHub: alokkumar)
-- Riya Bansal (GitHub: riyabansal)
+- Riya Bansal (GitHub: [Riya](https://github.com/Riya-2603))
 - Gaytri (GitHub: gaytri)
 
 ## Overview
