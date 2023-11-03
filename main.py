@@ -54,7 +54,7 @@ root.maxsize(1200, 988)
 root.configure(bg="lightblue")
 
 title_label = Label(
-    text='Calculator: Central Tendency and Dispersion', font=('Arial', 16), bg="lightblue")
+    text='Central Tendency and Dispersion Calculator', font=('Arial', 16), bg="lightblue")
 title_label.pack()
 
 number_label = Label(
@@ -91,6 +91,7 @@ ct_calculate_button.pack(pady=235, side=tk.TOP)
 
 
 # Dispersion Calculation
+
 dispLabel = Label(
     text='Dispersion', font=('Arial', 12), bg="lightblue")
 dispLabel.place(x=10, y=370)
@@ -118,5 +119,8 @@ disp_result_label.pack(pady=20)
 quitButton = Button(
     text='Press to exit', command=root.destroy, bg="red", fg="white")
 quitButton.pack(padx=5, pady=0, side=tk.BOTTOM)
+title_label = Label(
+    text="Author: Ajay Kumar , Alok Kumar , Riya , Gaytri ", font=("Arial", 12), bg="lightblue")
+title_label.pack()
 
 root.mainloop()
