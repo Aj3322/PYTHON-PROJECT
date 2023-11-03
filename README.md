@@ -3,6 +3,7 @@
 
 This Python program is a graphical calculator built using Tkinter, enabling users to compute measures of central tendency (mean, median, mode) and measures of dispersion (variance, standard deviation, range) based on a set of input numbers.
 
+
 ## Contributors
 
 - Ajay Kumar (GitHub: [AJ_Styles](https://github.com/Aj3322))
@@ -17,6 +18,9 @@ The code features a graphical user interface (GUI) built with Tkinter that allow
 - Enter numbers into the provided text box.
 - Choose the type of central tendency calculation (Arithmetic Mean, Median, Mode) or dispersion calculation (Variance, Standard Deviation, Range) using the radio buttons.
 - Click the corresponding "Calculate" buttons to obtain the result for the selected measure.
+
+![image](https://github.com/Aj3322/PYTHON-PROJECT/assets/114848454/d5744e1d-3663-4d9a-86be-a7fcb33cb7c0)
+
 
 ## Usage
 
